@@ -1,0 +1,5 @@
+se guardo el dato 1: 10
+se guardo el dato 2: 12
+se guardo el dato 3: 14
+se guardo el dato 4: 16
+se guardo el dato 5: 18
